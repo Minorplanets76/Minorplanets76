@@ -8,7 +8,7 @@ Other ideas I have:
 * Open Source system for pairing lambs with their mothers.  What I have in mind is BLE beacons attched to lambs, and a ESP32 or similar collar on the ewes recording which lambs are spending the night closest to the ewes.  Probably a bit of a data analysis problem as well.
 * Open source Animal Weight monitoring - might be scales in the yard, walk over weighing, or image analysis.
 
-I'm not particularly competent with software, but can find my way around the and Arduino, and can figure stuff out well enough.  I quite enjoy the hardward side, although an amatuer when it comes to electronic design.
+I'm not particularly competent with software, but can find my way around an Arduino, and can figure stuff out well enough.  I quite enjoy the hardward side, although I'm an amatuer when it comes to electronic design.
 
 I'm also interested in astronomy, particularly asteroidal occultations, but have been finding it really difficult to find the time.
 
