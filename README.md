@@ -1,7 +1,7 @@
 ### About Me
 I'm a Mining Engineer in regional NSW (Australia).  I'm interested in showing that skilled professions and technology have applications outside of major cities.  I grew up on a farm, so am interested in Ag technologies, and would like to contribute to open source solutions so that the more modest farms/farmers out there can benefit and DIY their own systems.
 
-I have implemented Autosteer on my tractor with the excellent AgOpneGPS project, and have the Open Weed Locator project on my current list and would like to integrate with AOG in the future.  My land and equipment is modest, but I have the resources to test and prototype.
+I have implemented Autosteer on my tractor with the excellent AgOpenGPS project, and have the Open Weed Locator project on my current list and would like to integrate with AOG in the future.  My land and equipment is modest, but I have the resources to test and prototype.
 
 Other ideas I have:
 * Open source RFID reader for animal tags (my focus would be for sheep husbandry)
